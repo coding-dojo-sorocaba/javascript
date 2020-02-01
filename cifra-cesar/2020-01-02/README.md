@@ -6,7 +6,7 @@ O processo de criptografia de uma cifra de César é frequentemente incorporado 
 
 Você precisa criar um algoritmo de cifra de césar que suporte diversos rotacionamentos de caracteres para criptografar a sua mensagem.
 
-![cifra-cesar](../images/cifra-cesar.png)
+![cifra-cesar](../../images/cifra-cesar.png)
 
 # Exemplos
 
