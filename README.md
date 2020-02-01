@@ -1,5 +1,7 @@
 # Coding Dojo Sorocaba
 
+> Eventos anunciados no telegram = http://t.me/coding-dojo-sorocaba
+
 ## O que é um Coding Dojo?
 
 Coding dojo é uma dinâmica realizada com pessoas (+ de uma) onde basicamente precisamos de um computador (e talvez um datashow opcionalmente) e um problema para ser "resolvido com código".
