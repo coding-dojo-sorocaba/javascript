@@ -8,3 +8,20 @@
 - [@anapolive](https://github.com/anapolive)
 - Pedro Henrique
 - Leila Rossi
+
+## Executar o teste
+
+* Requisitos: node 12 e npm 6
+
+* Usamos [jest](https://jestjs.io/) para os testes
+
+* execute:
+
+```
+ npm install
+
+ # e depois
+
+ npm test
+
+```
