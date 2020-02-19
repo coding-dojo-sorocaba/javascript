@@ -37,7 +37,7 @@ Objetivo da rotina é responder em uma string o resumo da compra
 
 # Dica para manter a sanidade mental
 
-Começe apenas resolvendo problema de exibir um resumo, a principio:
+Comece apenas resolvendo problema de exibir um resumo, a principio:
 
  * Não se preocupe com plural/singular
  * Não se preocupe com casas decimais
